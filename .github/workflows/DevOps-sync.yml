@@ -15,7 +15,6 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "syncedorg"
           ado_project: "syncedproject"
-          ado_area_path: "very_special_area"
           ado_wit: "Issue"
           ado_new_state: "To Do"
           ado_close_state: "Done"
